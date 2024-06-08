@@ -20,16 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/dewrajkumar02/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
-<a href="https://www.hackerrank.com/MuskanRani" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
-</a> 
-<a href="https://twitter.com/_muskan_gupta_" target="_blank">
-<img src="https://img.shields.io/badge/Twitter--blue" />
-</a>
-</a> 
-<a href="https://leetcode.com/Muskan_Rani/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode--blue" />
-</a>
+
 
 <br/> 
 
