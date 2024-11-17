@@ -14,7 +14,14 @@
 
 
 -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DewrajKushwaha.DewrajKushwaha" />
+<div align="right">
+    
+
+<img  src="https://visitor-badge.laobi.icu/badge?page_id=DewrajKushwaha.DewrajKushwaha" />
+<img  src="https://komarev.com/ghpvc/?username=DewrajKushwaha&color=brightgreen" />
+<img src="https://img.shields.io/github/forks/DewrajKushwaha/DewrajKushwaha?style=social"></img>
+</div>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Dewraj+Kumar+Kushwaha!;" />
@@ -63,15 +70,23 @@
 
 <br/>
 <h2> Github Stats </h2> 
-<a href="https://github.com/DewrajKushwaha/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewrajKushwaha&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=DewrajKushwaha&theme=tokyonight" alt="DewrajKushwaha" />
+<div align="center" >
+    <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+        <a href="https://github.com/DewrajKushwaha/github-readme-stats">
+            <img align="left" width="48%" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewrajKushwaha&layout=compact&theme=tokyonight" />
+        </a>
+        <img align="right" width="48%" height="200"  src="https://github-readme-stats-salesp07.vercel.app/api?username=DewrajKushwaha&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    </div>
+</div>
+<br/>
+<br/>
+<div align="center" >
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=DewrajKushwaha&theme=tokyonight" alt="DewrajKushwaha" />
+</div>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=DewrajKushwaha&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=DewrajKushwaha.DewrajKushwaha)
-<img src="https://img.shields.io/github/forks/DewrajKushwaha/DewrajKushwaha?style=social"></img>
 <h2>See my portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
-<!--https://DewrajKushwaha/Portfolio/
+<!--https://DewrajKushwaha/Portfolio/ -->
 
 <hr/>
 
