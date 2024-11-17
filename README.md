@@ -79,10 +79,7 @@
     </div>
 </div>
 <br/>
-<div align="center">
-    <img width="55%" height="200" style="margin-bottom: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=DewrajKushwaha&theme=tokyonight" alt="DewrajKushwaha" />
-</div>
-<br/>
+
 <br/>
 <br/>
 <div align="center" >
