@@ -70,14 +70,19 @@
 
 <br/>
 <h2> Github Stats </h2> 
-<div align="center" >
+<div align="center">
     <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
         <a href="https://github.com/DewrajKushwaha/github-readme-stats">
-            <img align="left" width="48%" height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewrajKushwaha&layout=compact&theme=tokyonight" />
+            <img align="left" width="40%" height="200" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DewrajKushwaha&layout=compact&theme=tokyonight" />
         </a>
-        <img align="right" width="48%" height="200"  src="https://github-readme-stats-salesp07.vercel.app/api?username=DewrajKushwaha&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+        <img width="390" height="200" style="margin-bottom: 20px;" src="https://github-readme-stats-salesp07.vercel.app/api?username=DewrajKushwaha&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     </div>
 </div>
+<br/>
+<div align="center">
+    <img width="55%" height="200" style="margin-bottom: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=DewrajKushwaha&theme=tokyonight" alt="DewrajKushwaha" />
+</div>
+<br/>
 <br/>
 <br/>
 <div align="center" >
