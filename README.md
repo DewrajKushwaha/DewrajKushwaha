@@ -30,7 +30,7 @@
  
  🌱 I’m currently learning **Next.js, Pandas, AWS**
 
-💬 Ask me about **Node.js, React, MongoDB...
+💬 Ask me about **Node.js, React, MongoDB...**
 <!-- or anything [here](https://github.com/DewrajKushwaha/DewrajKushwaha/issues)** -->
 
 
