@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
 <h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/dewrajkumar02/" target="_blank">
+<a href="https://www.linkedin.com/in/dewrajkushwaha" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn--blue" />
 </a>
 
