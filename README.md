@@ -53,7 +53,7 @@
     <a href="https://www.instagram.com/kushwaha02dew/" target="_blank">
     <img src="https://img.shields.io/badge/Insatgram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://DewrajKushwaha.github.io" target="_blank">
+  <a href="https://dewrajportfolio.onrender.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
